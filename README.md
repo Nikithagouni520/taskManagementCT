@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow MERN SaaS
 
 Interactive task management SaaS MVP using MERN, Socket.io, @dnd-kit, Zustand, Framer Motion, JWT auth, theme persistence, Kanban boards, task details, comments, labels, priorities, and due dates.
@@ -41,3 +42,7 @@ npm run dev
 ```text
 http://localhost:5173
 ```
+=======
+# taskManagementCT
+A modern, collaborative Task Management SaaS application built using MongoDB, Express, React, and Node.js
+>>>>>>> 50fa8c79457f960f19b9280afec1947aa978fea1
